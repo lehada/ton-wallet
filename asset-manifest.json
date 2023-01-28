@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/wallet/static/css/main.31d6cfe0.css",
+    "main.js": "/wallet/static/js/main.83dc3f17.js",
+    "index.html": "/wallet/index.html",
+    "main.83dc3f17.js.map": "/wallet/static/js/main.83dc3f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.83dc3f17.js"
+  ]
+}
