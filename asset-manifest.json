@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/wallet/static/css/main.31d6cfe0.css",
-    "main.js": "/wallet/static/js/main.83dc3f17.js",
-    "index.html": "/wallet/index.html",
-    "main.83dc3f17.js.map": "/wallet/static/js/main.83dc3f17.js.map"
+    "main.css": "/ton-wallet/static/css/main.31d6cfe0.css",
+    "main.js": "/ton-wallet/static/js/main.83dc3f17.js",
+    "index.html": "/ton-wallet/index.html",
+    "main.83dc3f17.js.map": "/ton-wallet/static/js/main.83dc3f17.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
